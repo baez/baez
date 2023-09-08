@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baez
 - 👀 I’m interested in compilers and programming languages
-- 🌱 I’m currently learning Go
+- 🌱 Learning at least one new thing each day
 - 💞️ I’m looking to collaborate on software architecture
 - 📫 How to reach me: here on gitHub
 
