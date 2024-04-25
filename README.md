@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @baez
-- 👀 I’m interested in compilers, design patterns and new programming languages,
-     even the ones that are model based :)
+- 👀 compilers, design patterns and new programming languages, even the ones that are model based
 - 🌱 learning and having fun 
-- 💞️ I’m always curious and eager to collaborate on software architecture
-- 📫 How to reach me: here on gitHub
+- 💞️ I’m always curious and eager to collaborate on software architecture patterns
+- 📫 how to reach me: here on gitHub
 
 <!---
 baez/baez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
