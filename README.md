@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baez
-- 👀 I’m interested in compilers and programming languages
-- 🌱 Learning at least one new thing each day
-- 💞️ I’m looking to collaborate on software architecture
+- 👀 I’m interested in compilers, design patterns and new programming languages even the ones that are model based
+- 🌱 learning and having fun 
+- 💞️ I’m always curious and eager to collaborate on software architecture
 - 📫 How to reach me: here on gitHub
 
 <!---
