@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @baez
-- 👀 compilers, design patterns and new programming languages, even the ones that are model based
+- 👀 compilers, design patterns, microservices and new programming languages, even the ones that are just model based
 - 🌱 learning and having fun 
 - 💞️ I’m always curious and eager to collaborate on software architecture patterns
 - 📫 how to reach me: here on gitHub
