@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @baez
-- 👀 compilers, design patterns, microservices and programming languages, model based languages or even the ones that are just another OOP language
-- 🌱 learning something new is always fun 
-- 💞️ I’m always ready to collaborate on software architecture, design patterns and microservices
-- 📫 how to reach me: right here on gitHub
+- 👀 compilers, architectural patterns, design patterns, microservices, model based languages
+- 🌱 learning something new is always fun but delivering an awesome project is even more exciting
+- 💞️ I’m always eager to collaborate on architecture, design, and the software development process
+- 📫 how to reach me: github
 
 <!---
 baez/baez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
