@@ -1,12 +1,13 @@
 # Hello! 👋
 
-I'm **George (baez)**, a software engineer based in **Vancouver, BC**, with a passion for **computational Earth 🌱 sciences, architectural patterns, design patterns, microservices, compilers, and model-based languages**. I enjoy leveraging computational power to better understand the **environment** 💞️. I'm always eager to collaborate on **architecture, design, and the software development process**.
+I'm **George (baez)**, a software engineer based in **Vancouver, BC**, with a passion for **computational Earth sciences 🌱, architectural patterns, design patterns, microservices, compilers, and model-based languages**. I enjoy leveraging computational power to better understand the **environment** 💞️. 
+I'm always eager to collaborate on **architecture, design, and the software development process**.
 
 ## 🔧 Technologies & Tools:
-- **Languages:** C/C++, C#, JavaScript
+- **Languages:** C/C++, Rust, C#, JavaScript, Python
 - **Backend & Frontend:** Node.js, React
 - **Cloud Services:** Azure, AWS
-- **Containerization & Orchestration:** Kubernetes, Docker
+- **Containerization & Orchestration:** Kubernetes, Docker, CI/CD
 - **Concurrency Models:** Actor Model
 
 ## 📫 How to reach me:
