@@ -10,7 +10,7 @@ I'm always eager to collaborate on **architecture, design, and the software deve
 - **Containerization & Orchestration:** Kubernetes, Docker, CI/CD
 - **Concurrency Models:** Actor Model
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 - **GitHub:** [github.com/baez](https://github.com/baez)
 
 Feel free to explore my repositories and connect with me for **collaboration** or **discussions on software engineering topics**! 🚀
