@@ -1,21 +1,18 @@
-Hello! 👋 
+# Hello! 👋
 
-I'm George (baez) a software engineer based in Vancouver, BC, with a passion for computational Earth 🌱 sciences, architectural patterns, design patterns, microservices, compilers and model-based languages. I enjoy using the computational power to learn more about environment 💞️
-I'm always eager to collaborate on architecture, design, and the software development process.
+I'm **George (baez)**, a software engineer based in **Vancouver, BC**, with a passion for **computational Earth 🌱 sciences, architectural patterns, design patterns, microservices, compilers, and model-based languages**. I enjoy leveraging computational power to better understand the **environment** 💞️. I'm always eager to collaborate on **architecture, design, and the software development process**.
 
-🔧 Technologies & Tools:
-C/C++
-C#
-JavaScript
-Node.js
-React
-Cloud Services (Azure, AWS)
-Kubernetes, Docker
-Actor model
-📫 How to reach me: github
+## 🔧 Technologies & Tools:
+- **Languages:** C/C++, C#, JavaScript
+- **Backend & Frontend:** Node.js, React
+- **Cloud Services:** Azure, AWS
+- **Containerization & Orchestration:** Kubernetes, Docker
+- **Concurrency Models:** Actor Model
 
-GitHub: github.com/baez
-Feel free to explore my repositories and connect with me for collaboration or discussions on software engineering topics!
+## 📫 How to reach me:
+- **GitHub:** [github.com/baez](https://github.com/baez)
+
+Feel free to explore my repositories and connect with me for **collaboration** or **discussions on software engineering topics**! 🚀
 
 <!---
 baez/baez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
