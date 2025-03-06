@@ -8,7 +8,7 @@ I'm always eager to collaborate on **architecture, design, and the software deve
 - **Backend & Frontend:** Node.js, React
 - **Cloud Services:** Azure, AWS
 - **Containerization & Orchestration:** Kubernetes, Docker, CI/CD
-- **Concurrency Models:** Actor Model
+- **Concurrency Models:** Actor Model, Akka, Orleans
 
 ### 📫 How to reach me:
 - **GitHub:** [github.com/baez](https://github.com/baez)
